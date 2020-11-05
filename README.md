@@ -1,8 +1,6 @@
 # Simple-Upgrade-Bash-Script
 This is a simple automated bash script that helps Debian based Linux users:
--update
--upgrade
--clean & remove orphan packages
+update, upgrade, clean & remove orphan packages
 
 *Remember to $ chmod +x the script before using.*
 
