@@ -1,4 +1,4 @@
-# Simple-Upgrade-Bash-Script
+# bash.upgrade.automation
 This is a simple automated bash script that helps Debian based Linux users:
 update, upgrade, clean & remove orphan packages
 
